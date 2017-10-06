@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromDegrees="0"
+    android:toDegrees="720"
+    android:duration="1000"
+    android:pivotX="50%"
+    android:pivotY="50%">
+    <!--前两个属性是：开始前和之后旋转的度数
+        最后两个属性是:缩放的中轴点X,y坐标，距离自身左边缘的位置-->
+</rotate>
